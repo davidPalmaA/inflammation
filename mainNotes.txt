@@ -1,0 +1,7 @@
+(This is just a test for the git course)
+
+Teams members:
+- David: data scientist
+- Andrea: business analyst
+
+done
